@@ -19,8 +19,9 @@ const Navbar = () => {
         ))}
       </div>
       <div className="flex flex-row items-center justify-center">
-        <p className="h-10 w-40 text-black hover:text-orange-500">JOIN US</p>
-        <p className="h-10 w-40 text-black hover:text-orange-500">
+        <p className="h-10 w-40 text-black hover:text-[#AA825D]">JOIN US</p>
+        <p className="h-10 w-40 text-black hover:text-[#AA825D]">JOIN US</p>
+        <p className="h-10 w-40 text-black hover:text-[#AA825D]">
           ADD PROPERTY
         </p>
       </div>
